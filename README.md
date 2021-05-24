@@ -1,2 +1,2 @@
-# examples4cocos
+# examples 4 cocos
 examples  for cocos 2dx
